@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: velora
-          image: vishesh11/velora:7
+          image: vishesh11/velora:8
           imagePullPolicy: Always
           ports:
             - containerPort: 80
